@@ -49,7 +49,7 @@
 ## Подробнее
 [Открыть проект в Google Colab](https://colab.research.google.com/drive/1noHIYxOvLQi2qdfT8GcLqubjig4SYqWD?usp=sharing)
 [Jupyter Notebook](fire-and-smoke-detection-with-YOLOv8m.ipynb)
-[Обзор статей](articles-and-cases-review.xlsx)
+[Обзор статей гугл таблица](https://docs.google.com/spreadsheets/d/1cfKNBXU_WzL_grBLnyR5j1VArlvBDuT-/edit?usp=sharing&ouid=112552458865860517475&rtpof=true&sd=true)
 
 ---
 
