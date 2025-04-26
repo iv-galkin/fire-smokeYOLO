@@ -47,8 +47,7 @@
 
 ## Подробнее
 [Jupyter Notebook](fire-and-smoke-detection-with-YOLOv8m.ipynb)  
-[Обзор статей](articles-
-and-cases-review.xlsx)
+[Обзор статей](articles-and-cases-review.xlsx)
 
 ---
 
