@@ -4,7 +4,8 @@
 
 ## Цель исследования
 Научиться определять и выделять на изображении огонь и дым. 
-Для этого изучить свежие статьи на тему детекции огня и дыма на изображениях, сделать обзор статей. Обучить модель детекции огня и дыма.
+Для этого изучить свежие статьи на тему детекции огня и дыма на изображениях, сделать обзор статей. 
+Обучить модель детекции огня и дыма.
 
 ---
 
@@ -46,7 +47,8 @@
 ---
 
 ## Подробнее
-[Jupyter Notebook](fire-and-smoke-detection-with-YOLOv8m.ipynb)  
+[Открыть проект в Google Colab](https://colab.research.google.com/drive/1noHIYxOvLQi2qdfT8GcLqubjig4SYqWD?usp=sharing)
+[Jupyter Notebook](fire-and-smoke-detection-with-YOLOv8m.ipynb)
 [Обзор статей](articles-and-cases-review.xlsx)
 
 ---
